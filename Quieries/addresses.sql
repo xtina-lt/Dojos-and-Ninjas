@@ -1,11 +1,14 @@
------------------------
--- #  XTINA.CODES  # --
---  INSERT, UPDATE,  --
---   DELETE, WHERE,  --
---      SELECT       --
---   GROUP BY DESC   --
---     ORDER BY      --
------------------------
+--------------------------------------
+--        #  XTINA.CODES  #         --
+--      INSERT table() VALUE()      --
+--  UPDATE table SET table.id = 'y' --
+--      DELETE FROM table WHERE     --
+--           WHERE id = #           --
+--        SELECT * FROM table       --
+--       GROUP BY column DESC       --
+--          ORDER BY column         --
+--------------------------------------
+
 -- #  CREATE  # --
 -- INSERT INTO addresses(street, city, state, zip) VALUES('online', 'online', 'na', 00000)
 -- INSERT INTO addresses(street, city, state, zip) VALUES('3600 136th PL SE #300', 'Bellevue', 'WA', 98006)
